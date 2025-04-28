@@ -1,0 +1,14 @@
+numpy
+pandas
+nltk
+spacy
+seaborn
+matplotlib
+scikit-learn
+scipy
+wordcloud
+sentence-transformers
+torch
+tqdm
+transformers
+hdbscan
